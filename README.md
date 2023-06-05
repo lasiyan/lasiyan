@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @lasiyan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Technical
+- Image & Video Streaming with Gstreamer
+- Networking system
+- Nvidia Jetson platform
+- Other user application
+
+## Language
+- C/C++
+- Python
+
+## System
+- Windows
+- aarch64 linux (Debian)
 
 <!---
 lasiyan/lasiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
