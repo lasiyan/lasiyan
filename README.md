@@ -1,3 +1,7 @@
+## Blog (relocation)
+- From : https://mystes.tistory.com/
+- To   : https://lasiyan.github.io/
+
 ## Technical
 - Image & Video Streaming with Gstreamer
 - Networking system
