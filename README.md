@@ -1,22 +1,23 @@
-## Blog (relocation ... ing ...)
+## Blog (Proceeding ...)
 - From : https://mystes.tistory.com/
 - To   : https://lasiyan.github.io/
 
-## Technical
-- Image & Video Streaming with Gstreamer
-- Networking system
-- Nvidia Jetson platform
-- Other user application
+## Technical & Experience
+- Design System architecture
+- Camera & Video Streaming
+- Server Programming (for multi-clinet)
+- Embedded System (Cross-platform compile)
+- UI Programming (React 18.2 for Browser, MFC for Windows)
 - Motion & I/O Control
 - Camera image signal processing (3A, Calibration)
 
-## Language
-- C/C++
-- Python
+## Language & Stack
+- (Major) C/C++, Python
+- (Minor) Javascript
 
 ## System
 - Windows
-- aarch64 linux (Debian)
+- ARM linux (Debian base)
 
 <!---
 lasiyan/lasiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
