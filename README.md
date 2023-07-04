@@ -1,4 +1,4 @@
-## Blog (relocation)
+## Blog (relocation ... ing ...)
 - From : https://mystes.tistory.com/
 - To   : https://lasiyan.github.io/
 
