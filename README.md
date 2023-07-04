@@ -7,6 +7,8 @@
 - Networking system
 - Nvidia Jetson platform
 - Other user application
+- Motion & I/O Control
+- Camera image signal processing (3A, Calibration)
 
 ## Language
 - C/C++
