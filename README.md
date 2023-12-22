@@ -1,6 +1,6 @@
 ## Blog (Proceeding ...)
-- From : https://mystes.tistory.com/
-- To   : https://lasiyan.github.io/
+- https://mystes.tistory.com/
+- (sub) https://lasiyan.github.io/
 
 ## Technical & Experience
 - Design System architecture
